@@ -12,8 +12,7 @@ to use it, go to terminal
 
 Live demoes are:
 <ol>
-<li><a target="_blank" href="http://kjhuang.com/react/demo/default">Template</a></li>
-<li><a target="_blank" href="http://kjhuang.com/react/demo/yahoo">Prototype Yahoo Videos</a></li>
+<li><a target="_blank" href="http://35.164.184.64/react-motion/public">Template</a></li>
 </ol>
 
 
